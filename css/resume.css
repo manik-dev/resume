@@ -86,18 +86,19 @@ article>p{
     align-items: flex-start;
 }
 
-.experience>div{
+
+.experience>div, .edu>div{
     width: 100%;
     display: flex;
 }
 
-.experience>div>span{
+.experience>div>span, .edu>div>span{
     display: inline-block;
     width: 100%;
     display: flex;
 }
 
-.experience>div>span:last-child{
+.experience>div>span:last-child, .edu>div>span:last-child{
     justify-content: flex-end;
 }
 
