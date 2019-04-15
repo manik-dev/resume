@@ -118,5 +118,8 @@ h2{
     article{
         font-size: 2vh;
     }
+    header{
+        width:98.5%;
+    }
 }
 
