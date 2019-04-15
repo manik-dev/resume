@@ -123,3 +123,11 @@ h2{
     }
 }
 
+@media print {
+.eduHeading{
+        margin-top: 20%;
+    }
+    header{
+        display: none;
+    }
+}
